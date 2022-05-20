@@ -5,18 +5,28 @@ id: home
 permalink: /
 ---
 
-# Welcome! 🌱
+# Welcome! 🎮
+
+We are a collection of international schools in China who wanted to provide our students with a safe and fun environment to play games competitively.
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
+  First time here? Take a look at our <span style="font-weight: bold">[[welcome|welcome page]]</span> to learn more about the organisation.
 </p>
 
-This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
+## Our members
+For the 2022/23 season, we are a collection of **5 schools** from **5 provinces** across China.
 
-The easiest way to get started is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll).
+- [[members|Learn more about our members here]]
 
-<style>
-  .wrapper {
-    max-width: 46em;
-  }
-</style>
+## Current games
+
+We focus on 4 main games each academic year. Our main games for the 2022/23 season are:
+
+- [[Just Dance 2022]]
+- [[Mario Kart 8 Deluxe]]
+- [[Rocket League]]
+- [[Super Smash Bros Ultimate]]
+
+## Upcoming competitions
+
+[[fixtures|Fixture list]]
