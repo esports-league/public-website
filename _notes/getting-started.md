@@ -8,7 +8,7 @@ We do not charge registration fees or competition fees.
 
 ## Membership
 
-For the 2022/23 season, we are a collection of **5 schools** from **5 provinces** across China. 
+For the 2022/23 season, we are a collection of **6 schools** from **5 provinces** across China.
 
 - [[members|Learn more about our members here]]
 
