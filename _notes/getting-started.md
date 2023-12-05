@@ -2,7 +2,7 @@
 title: Getting started
 ---
 
-Started in Spring 2022, the *China International Esports League* provides year round competition for primary school and high school students enrolled in international schools across China.
+Started in Spring 2022, the *China International Esports League* provides year round competition for primary school and high school students enrolled in international schools across China. We also have associate members from international across other parts of Asia, including Thailand and Singapore.
 
 We do not charge registration fees or competition fees.
 
