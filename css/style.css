@@ -108,7 +108,7 @@ footer {
         background-size: 200% auto;
     }
 
-    .footer {
+    footer {
         .wrapper {
             justify-content: space-between;
             flex-direction: row;
